@@ -2,7 +2,7 @@
 
 A responsive React application to explore **Star Wars characters** using the **SWAPI API**, featuring authentication, search, filtering, pagination, and a sleek black-and-orange Star Wars-inspired UI.
 
-**Live Demo**: [https://your-live-demo-link.com](https://your-live-demo-link.com)
+**Live Demo**: https://star-wars-character-azure.vercel.app/
 
 ---
 
